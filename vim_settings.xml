@@ -3,14 +3,29 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/code/Test/AngularTest/src/app/organisms/header/header.component.html" timestamp="1537443798686">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/Test/AngularTest/src/app/app.component.ts" timestamp="1537443095479">
         <mark key="[" line="4" column="30" />
         <mark key="]" line="4" column="31" />
         <mark key="." line="4" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/code/Test/AngularTest/src/app/organisms/header/header.component.scss" timestamp="1537443852469">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
